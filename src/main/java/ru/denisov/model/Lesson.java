@@ -15,4 +15,5 @@ class Lesson {
     private String type;
     private String teacher;
     private String auditory;
+    private int lessonNumber;
 }
